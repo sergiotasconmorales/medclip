@@ -1,4 +1,5 @@
 .idea/
+pretrained
 ReportGenerationMeetsGraph/data/NLMCXR_pngs
 ReportGenerationMeetsGraph/output/
 .DS_Store
